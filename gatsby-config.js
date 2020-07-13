@@ -3,7 +3,7 @@ module.exports = {
     title: `Overfitted V3.0`,
     author: {
       name: `Over Fitted`,
-      summary: `who works only between midnight and 5am`,
+      summary: `is most productive between midnight and 5am`,
     },
     description: `My third and hopefully last attempt at blogging`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
